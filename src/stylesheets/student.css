@@ -1,0 +1,38 @@
+.container-student {
+  width: 1000px;
+  height: 400px;
+  margin: 10px 10px 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #FFCC33;
+  box-shadow: 0 3px 13px 1px #4f200d;
+}
+
+
+
+.container-text-student {
+  background-color: #FF8400;
+  width: 500px;
+  min-height: auto;
+  margin-right: 12px;
+  border-radius: 5px; 
+}
+
+.imagen-student {
+  width: 288px;
+  height: 180px;
+  border-radius: 10px;
+  margin-left: 25px;
+}
+
+.name-student, .age-student, .address-student {
+  margin: 10px;
+}
+
+.description-student {
+  text-align: justify;
+  margin: 20px 10px 10px 10px;
+
+}
+
